@@ -3408,6 +3408,15 @@ http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/31443/index.m3u8
 #EXTINF:0 tvg-rec="0" group-title="Németország",Zwei Music Television HD DE
 #EXTGRP:Németország
 http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/31444/index.m3u8
+#EXTINF:0 tvg-rec="0" group-title="Németország",Deluxe Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:0 tvg-rec="0" group-title="Németország",Deluxe Music Dance
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+
+#EXTINF:0 tvg-rec="0" group-title="Olaszország",DeeJay Tv
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+
+
 
 #EXTINF:-1 group-title="Cseh-Szlovák",Prima HD [CZ]
 http://r.faola.li/8550/index.m3u8?token=9wy1wDmEfB
@@ -3449,6 +3458,115 @@ http://r.faola.li/9290/index.m3u8?token=9wy1wDmEfB
 http://r.faola.li/9804/index.m3u8?token=9wy1wDmEfB
 #EXTINF:-1 group-title="Cseh-Szlovák",TV Noe [CZ]
 http://r.faola.li/9805/index.m3u8?token=9wy1wDmEfB
+#EXTINF:-1 group-title="Cseh-Szlovák",Markiza Klasik
+https://cdnsk003.panaccess.com/local/Markiza_Klasik/index.m3u8
+#EXTINF:-1 group-title="Cseh-Szlovák",Filmbox Arthouse
+https://dash2.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="Cseh-Szlovák",NatGeo Wild
+http://88.212.15.29/live/test_ngw/playlist.m3u8
+#EXTINF:-1 group-title="Cseh-Szlovák",Duck Tv
+http://88.212.15.19/live/test_duck_tv_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Cseh-Szlovák",Duck Tv Plus
+https://dash2.antik.sk/live/test_duck_plus/playlist.m3u8
+#EXTINF:-1 group-title="Cseh-Szlovák",Tom and Jerry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 group-title="Cseh-Szlovák",Rebel
+https://dash2.antik.sk/live/test_rebel/playlist.m3u8
+#EXTINF:-1 group-title="Cseh-Szlovák",Retro TV
+https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="Cseh-Szlovák",Slágr 2
+http://212.102.38.45/live/test_slagr_2_atk/playlist.m3u8
+#EXTINF:-1 group-title="Cseh-Szlovák",360 TuneBox
+https://dash2.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
+#EXTINF:-1 group-title="Cseh-Szlovák",Tv Doktor
+https://live.tvdoktor.sk/high/index.m3u8
+#EXTINF:-1 group-title="Cseh-Szlovák",Relax
+https://dash2.antik.sk/live/test_relax/playlist.m3u8
+#EXTINF:-1 group-title="Cseh-Szlovák",A11
+https://dash2.antik.sk/live/test_regionalni_tv/playlist.m3u8
+#EXTINF:-1 group-title="Cseh-Szlovák", Polar
+https://stream.polar.cz/polar/polarlive-1/manifest.m3u8
+#EXTINF:-1 group-title="Cseh-Szlovák",Tv Liptov
+http://95.105.255.137:1935/tvturiec/tvliptov.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cseh-Szlovák",TV BRNO 1 HD
+https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
+#EXTINF:-1 group-title="Cseh-Szlovák",Východočeská televize V1
+https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
+
+#EXTINF:-1 group-title="Cseh-Szlovák",JČ1 regionální televize
+https://stream.jc1.cz/hls/jc1.m3u8
+#EXTINF:-1 group-title="Cseh-Szlovák",Jihočeská TV HD
+https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8
+#EXTINF:-1 group-title="Cseh-Szlovák",Plzeň TV
+https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8
+
+#EXTINF:-1 group-title="Cseh-Szlovák",Elektrika TV
+https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Cseh-Szlovák",Mnau TV HD
+https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
+
+
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Radio Kosice
+http://stream.ecce.sk:8000/radiokosice-128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Rádio Vlna.cz
+http://stream.radiovlna.sk/vlna-hi.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Fun Rádio 80 - 90s
+http://stream.funradio.sk:8000/80-90-128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Fun Radio CZ-SK
+http://stream.funradio.sk:8000/cs128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Fun Radio
+http://stream.funradio.sk:8000/fun128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Fun Radio Dance
+http://stream.funradio.sk:8000/dance128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Radio Slovensko
+http://live.slovakradio.sk:8000/Slovensko_128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Fun Radio
+http://stream.funradio.sk:8000/fun128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Fun radio Cs
+http://stream.funradio.sk:8000/cs128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Fun Radio 80.90.Roky
+http://stream.funradio.sk:8000/80-90-128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Fun Radio Dance
+http://stream.funradio.sk:8000/dance128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Radio FM
+http://live.slovakradio.sk:8000/FM_128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Radio Rock
+https://stream.bauermedia.sk/rock-hi.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Zvuk mora
+http://ice6.abradio.cz/relax-sea128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Zvuk búrky
+http://ice6.abradio.cz/relax-thunder-rain128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Zvuk vtákov
+http://ice6.abradio.cz/relax-morning-birds128.mp3
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Radio.svg/2048px-Radio.svg.png",Radio Ibiza 
+https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="Radio" radio="true" group-title="Slovenské rádia" tvg-logo="https://i.postimg.cc/vTYFgPBB/LOGO23-RADIO.png",TRANCE IS STAR RADIO 
+https://myradio24.org/tisradio_video.m3u8
+#EXTINF:-1 group-title=" Slovenské rádia " tvg-logo="https://i.postimg.cc/yx14KkcR/unnamed.png",1 FM - Dance One
+http://strm112.1.fm/dance_mobile_mp3
+#EXTINF:-1 group-title=" Slovenské rádia " tvg-logo="https://i.postimg.cc/yx14KkcR/unnamed.png",1 FM - Deep House
+http://strm112.1.fm/deephouse_mobile_mp3
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Bulgária",Magic Tv
+https://bss1.neterra.tv/magictv/magictv.m3u8
+
+
+
+#EXTINF:-1 group-title="Sport",Real Madrid Tv 
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+
+
+
+
+
+
 
 
 
@@ -3800,7 +3918,17 @@ http://neorcqds.top:8080/8801768585429/da2380850624/58881
 http://neorcqds.top:8080/8801768585429/da2380850624/70904
 
 
-#EXTM3U
+
+#EXTINF:-1 group-title="Románia",Kiss tv RO 🇷🇴
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+#EXTINF:-1 group-title="Románia",Rock Tv
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="PT: ARTV" tvg-logo="https://docdog.top/logo/countries/portugal/artv.png" group-title="PT | PORTUGAL",PT: ARTV
 http://neorcqds.top:8080/8801768585429/da2380850624/24990
 #EXTINF:-1 tvg-id="" tvg-name="PT: CANAL 11" tvg-logo="https://docdog.top/logo/countries/portugal/canal11.png" group-title="PT | PORTUGAL",PT: CANAL 11
