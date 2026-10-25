@@ -3451,95 +3451,17 @@ http://r.faola.li/9804/index.m3u8?token=9wy1wDmEfB
 http://r.faola.li/9805/index.m3u8?token=9wy1wDmEfB
 
 
-#EXTM3U
-#EXTINF:-1 tvg-id="Ketnet.be" tvg-name="BE | LA UNE HD" tvg-logo="http://sbix.pro:80/images/1BZaAwYUi4piNjCDPoR8uMR4AamonjgkU5.png" group-title="Belgium",BE | LA UNE HD
-http://sbix.pro:80/CGX549/85257115/7343
-#EXTINF:-1 tvg-id="LN24.be" tvg-name="BE | TIPIK HD" tvg-logo="http://sbix.pro:80/images/774fa6c983167f7e23243cf10da861a8.png" group-title="Belgium",BE | TIPIK HD
-http://sbix.pro:80/CGX549/85257115/7347
+
 #EXTINF:-1 tvg-id="Ketnet.be" tvg-name="BE | LA TROIS HD" tvg-logo="http://sbix.pro:80/images/b85f5086ee8758216726c03417bdc2a9.png" group-title="Belgium",BE | LA TROIS HD
 http://sbix.pro:80/CGX549/85257115/7351
-#EXTINF:-1 tvg-id="Ketnet.be" tvg-name="BE | RTL TVI HD" tvg-logo="http://sbix.pro:80/images/895236593e7f1b789a49eef9a0b5380e.png" group-title="Belgium",BE | RTL TVI HD
-http://sbix.pro:80/CGX549/85257115/7356
-#EXTINF:-1 tvg-id="Ketnet.be" tvg-name="BE | PLUG RTL HD" tvg-logo="http://sbix.pro:80/images/d88151d55afb2571705505d5e53f4afa.png" group-title="Belgium",BE | PLUG RTL HD
-http://sbix.pro:80/CGX549/85257115/7359
-#EXTINF:-1 tvg-id="(BE)..LN24.be" tvg-name="BE | LN24 FHD" tvg-logo="http://sbix.pro:80/images/c8b1198a24737aa01ff8f0136c558881.png" group-title="Belgium",BE | LN24 FHD
-http://sbix.pro:80/CGX549/85257115/7362
-#EXTINF:-1 tvg-id="Ketnet.be" tvg-name="BE | CLUB RTL HD" tvg-logo="http://sbix.pro:80/images/0cb680a96285ffb069bdd980f6751563.png" group-title="Belgium",BE | CLUB RTL HD
-http://sbix.pro:80/CGX549/85257115/7364
+
 #EXTINF:-1 tvg-id="Ketnet.be" tvg-name="BE | AB1 FHD" tvg-logo="http://sbix.pro:80/images/72b2d482bf3c99428d938d246abe1690.png" group-title="Belgium",BE | AB1 FHD
 http://sbix.pro:80/CGX549/85257115/7367
-#EXTINF:-1 tvg-id="Ketnet.be" tvg-name="BE | AB1 HD" tvg-logo="http://sbix.pro:80/images/72b2d482bf3c99428d938d246abe1690.png" group-title="Belgium",BE | AB1 HD
-http://sbix.pro:80/CGX549/85257115/7368
-#EXTINF:-1 tvg-id="Ketnet.be" tvg-name="BE | AB3 FHD" tvg-logo="http://sbix.pro:80/images/a6e9d1114c224c6a2797e27df493b8d9.png" group-title="Belgium",BE | AB3 FHD
-http://sbix.pro:80/CGX549/85257115/7370
-#EXTINF:-1 tvg-id="Ketnet.be" tvg-name="BE | AB3 HD" tvg-logo="http://sbix.pro:80/images/a6e9d1114c224c6a2797e27df493b8d9.png" group-title="Belgium",BE | AB3 HD
-http://sbix.pro:80/CGX549/85257115/7371
-#EXTINF:-1 tvg-id="Ketnet.be" tvg-name="BE | ABXPLORE HD" tvg-logo="http://sbix.pro:80/images/ff9abb958a15cd835c371f438ee292af.png" group-title="Belgium",BE | ABXPLORE HD
-http://sbix.pro:80/CGX549/85257115/7375
-#EXTINF:-1 tvg-id="" tvg-name="BE | NO TELE" tvg-logo="http://sbix.pro:80/images/69edcd3ba11d245bc0e63c490ea38863.png" group-title="Belgium",BE | NO TELE
-http://sbix.pro:80/CGX549/85257115/7384
-#EXTINF:-1 tvg-id="" tvg-name="BE | TV LUX" tvg-logo="http://sbix.pro:80/images/1BZaAwYUi4piNjCDPoR8uMR4AamonjgkU5.png" group-title="Belgium",BE | TV LUX
-http://sbix.pro:80/CGX549/85257115/7387
-#EXTINF:-1 tvg-id="Ketnet.be" tvg-name="BE | KETNET" tvg-logo="http://sbix.pro:80/images/fde9906435d2808c75c911b65760420b.png" group-title="Belgium",BE | KETNET
-http://sbix.pro:80/CGX549/85257115/7389
-#EXTINF:-1 tvg-id="" tvg-name="BE | BEL RTL HD" tvg-logo="http://sbix.pro:80/images/fc4d0ba7f5b13435084ba79baa9d0767.png" group-title="Belgium",BE | BEL RTL HD
-http://sbix.pro:80/CGX549/85257115/7392
-#EXTINF:-1 tvg-id="Ketnet.be" tvg-name="LU | RTL ZWEE" tvg-logo="http://sbix.pro:80/images/acba59a64309bdc9803246103d87c306.png" group-title="Belgium",LU | RTL ZWEE
-http://sbix.pro:80/CGX549/85257115/7435
-#EXTINF:-1 tvg-id="" tvg-name="BE | BX1 HD" tvg-logo="" group-title="Belgium",BE | BX1 HD
-http://sbix.pro:80/CGX549/85257115/605291
-#EXTINF:-1 tvg-id="" tvg-name="BE | LN 24 HD" tvg-logo="" group-title="Belgium",BE | LN 24 HD
-http://sbix.pro:80/CGX549/85257115/605292
-#EXTINF:-1 tvg-id="Ketnet.be" tvg-name="BE | DAZN SPORTS 1 HD" tvg-logo="http://sbix.pro:80/images/2d0ce9325cb817ffacd6e41656959be4.png" group-title="Belgium",BE | DAZN SPORTS 1 HD
-http://sbix.pro:80/CGX549/85257115/7403
-#EXTINF:-1 tvg-id="" tvg-name="BE | DAZN SPORTS 2 HD" tvg-logo="http://sbix.pro:80/images/4cecc66a5adb0934fde7fa47300e78a6.png" group-title="Belgium",BE | DAZN SPORTS 2 HD
-http://sbix.pro:80/CGX549/85257115/7404
-#EXTINF:-1 tvg-id="" tvg-name="BE | ELEVEN SPORTS 3 HD" tvg-logo="http://sbix.pro:80/images/1BZaAwYUi4piNjCDPoR8uMR4AamonjgkU5.png" group-title="Belgium",BE | ELEVEN SPORTS 3 HD
-http://sbix.pro:80/CGX549/85257115/7405
-#EXTINF:-1 tvg-id="(BE)..ELEVEN.SPORTS.1.be" tvg-name="BE | ELEVEN SPORTS PRO 1 HD" tvg-logo="http://sbix.pro:80/images/1BZaAwYUi4piNjCDPoR8uMR4AamonjgkU5.png" group-title="Belgium",BE | ELEVEN SPORTS PRO 1 HD
-http://sbix.pro:80/CGX549/85257115/7408
-#EXTINF:-1 tvg-id="" tvg-name="BE | VOO SPORT 1 4K" tvg-logo="http://sbix.pro:80/images/23774d6c60726d41698542bbf7ee0334.png" group-title="Belgium",BE | VOO SPORT 1 4K
-http://sbix.pro:80/CGX549/85257115/328149
-#EXTINF:-1 tvg-id="" tvg-name="BE | VOO SPORT 2 4K" tvg-logo="http://sbix.pro:80/images/4cecc66a5adb0934fde7fa47300e78a6.png" group-title="Belgium",BE | VOO SPORT 2 4K
-http://sbix.pro:80/CGX549/85257115/328150
-#EXTINF:-1 tvg-id="" tvg-name="BE | VOO SPORT 3 4K" tvg-logo="http://sbix.pro:80/images/2a9d4352dff3ceb0a01d7868a65675db.png" group-title="Belgium",BE | VOO SPORT 3 4K
-http://sbix.pro:80/CGX549/85257115/328151
-#EXTINF:-1 tvg-id="Ketnet.be" tvg-name="BE | EEN FHD" tvg-logo="http://sbix.pro:80/images/9a22d7d522ae7b06116391a4ea89fd46.png" group-title="Belgium",BE | EEN FHD
-http://sbix.pro:80/CGX549/85257115/7410
-#EXTINF:-1 tvg-id="LN24.be" tvg-name="BE | VTM HD" tvg-logo="http://sbix.pro:80/images/8a4c9e52ddefab6c8677b056d47989bb.png" group-title="Belgium",BE | VTM HD
-http://sbix.pro:80/CGX549/85257115/7411
-#EXTINF:-1 tvg-id="LN24.be" tvg-name="BE | CANVAS FHD" tvg-logo="http://sbix.pro:80/images/7590206cae430d54d9f461ffad1e7371.png" group-title="Belgium",BE | CANVAS FHD
-http://sbix.pro:80/CGX549/85257115/7412
-#EXTINF:-1 tvg-id="Ketnet.be" tvg-name="BE | PLAY 4" tvg-logo="http://sbix.pro:80/images/b404a8f28a81779f7f54e2f012c75f2e.png" group-title="Belgium",BE | PLAY 4
-http://sbix.pro:80/CGX549/85257115/7413
-#EXTINF:-1 tvg-id="Ketnet.be" tvg-name="BE | PLAY 5" tvg-logo="http://sbix.pro:80/images/70e1691d137edd3a9870de62021597e9.png" group-title="Belgium",BE | PLAY 5
-http://sbix.pro:80/CGX549/85257115/7414
-#EXTINF:-1 tvg-id="Ketnet.be" tvg-name="BE | PLAY 6" tvg-logo="http://sbix.pro:80/images/4c842620261ec723086a618449d0d913.png" group-title="Belgium",BE | PLAY 6
-http://sbix.pro:80/CGX549/85257115/7415
-#EXTINF:-1 tvg-id="Ketnet.be" tvg-name="BE | VTM 2 HD" tvg-logo="http://sbix.pro:80/images/2024267f42d308806a4a2677d2bab641.png" group-title="Belgium",BE | VTM 2 HD
-http://sbix.pro:80/CGX549/85257115/7416
-#EXTINF:-1 tvg-id="LN24.be" tvg-name="BE | VTM 3 HD" tvg-logo="http://sbix.pro:80/images/e77ebdfaa4f770f815ac8ebb4636b7d6.png" group-title="Belgium",BE | VTM 3 HD
-http://sbix.pro:80/CGX549/85257115/7417
-#EXTINF:-1 tvg-id="" tvg-name="BE | TVL" tvg-logo="http://sbix.pro:80/images/aaaedeecc302057afb208c6eb9117993.png" group-title="Belgium",BE | TVL
-http://sbix.pro:80/CGX549/85257115/7418
+
+
 #EXTINF:-1 tvg-id="Ketnet.be" tvg-name="BE | KETNET" tvg-logo="http://sbix.pro:80/images/fde9906435d2808c75c911b65760420b.png" group-title="Belgium",BE | KETNET
 http://sbix.pro:80/CGX549/85257115/7420
-#EXTINF:-1 tvg-id="" tvg-name="BE | ZES HD" tvg-logo="http://sbix.pro:80/images/a223adcb6df32ca67190c39e8b588834.png" group-title="Belgium",BE | ZES HD
-http://sbix.pro:80/CGX549/85257115/7421
-#EXTINF:-1 tvg-id="Ketnet.be" tvg-name="BE | VTM 4 HD" tvg-logo="http://sbix.pro:80/images/d1155f1822ac762705051c337ee512e1.png" group-title="Belgium",BE | VTM 4 HD
-http://sbix.pro:80/CGX549/85257115/7422
-#EXTINF:-1 tvg-id="" tvg-name="BE | VTM GOLD" tvg-logo="http://sbix.pro:80/images/9c36d8d9ef44ee78d4e170ba0dee2bb3.png" group-title="Belgium",BE | VTM GOLD
-http://sbix.pro:80/CGX549/85257115/7424
-#EXTINF:-1 tvg-id="" tvg-name="BE | VTM KIDS" tvg-logo="http://sbix.pro:80/images/87564f8001e7c587e5377d5833a9c92c.png" group-title="Belgium",BE | VTM KIDS
-http://sbix.pro:80/CGX549/85257115/7425
-#EXTINF:-1 tvg-id="" tvg-name="BE | ATV ANTWERPEN HD" tvg-logo="" group-title="Belgium",BE | ATV ANTWERPEN HD
-http://sbix.pro:80/CGX549/85257115/605293
-#EXTINF:-1 tvg-id="Ketnet.be" tvg-name="BE | PLAY SPORTS 1" tvg-logo="http://sbix.pro:80/images/4ce1152374b01250272440c08bdc7e29.png" group-title="Belgium",BE | PLAY SPORTS 1
-http://sbix.pro:80/CGX549/85257115/7427
-#EXTINF:-1 tvg-id="Ketnet.be" tvg-name="BE | PLAY SPORTS 2" tvg-logo="http://sbix.pro:80/images/1BZaAwYUi4piNjCDPoR8uMR4AamonjgkU5.png" group-title="Belgium",BE | PLAY SPORTS 2
-http://sbix.pro:80/CGX549/85257115/7428
-#EXTINF:-1 tvg-id="Ketnet.be" tvg-name="BE | PLAY SPORTS 3 HD NL" tvg-logo="http://sbix.pro:80/images/01a4eb643a89ef84f8f50bbcc402de5c.png" group-title="Belgium",BE | PLAY SPORTS 3 HD NL
-http://sbix.pro:80/CGX549/85257115/7429
+
 
 
 
