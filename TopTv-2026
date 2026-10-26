@@ -299,12 +299,9 @@ http://213.163.13.122:1559/udp/239.1.10.51:2000
 #EXTINF:-1 group-title="Magyar",HETI TV
 http://213.163.13.122:1559/udp/239.1.10.54:2000
 
-
-
-
-
-
-
+#EXTINF:-1 group-title="Magyar",RTL HD
+#EXTINF:-1 tvg-id="RTLKlub.hu" tvg-name="HU ★ RTL KLUB HD" tvg-logo="http://lg.maxnow.cx:8080/logo/HUNGARIAN/RTLKLUBHD.png" 
+http://81979568.allpremium.pro/R58R36R7/94354782/135251
 
 
 #EXTINF:-1 group-title="Magyar",RTL Gold
@@ -322,10 +319,6 @@ http://iffyqvne.icelil.com:80/2WUZTVD/LBJJG2N2394WWYG/906777
 
 
 
-#EXTINF:-1 group-title="Magyar",Sport1
-http://88.212.15.19/live/sport1_hun/index.m3u8
-#EXTINF:-1 group-title="Magyar",Sport2
-http://88.212.15.19/live/sport2_hun/index.m3u8
 
 
 
