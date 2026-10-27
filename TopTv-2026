@@ -5,8 +5,10 @@ https://stream.iptvservice.eu/hls/balatontv.m3u8
 
 #EXTINF:-1 group-title="Magyar",DTV
 https://cloudfront44.lexanetwork.com:1344/relay44_1/livestream002.sdp/playlist.m3u8
-
-
+#EXTINF:-1 group-title="Magyar", AXN BLACK
+http://81979568.allpremium.pro/R58R36R7/94354782/135353
+#EXTINF:-1 group-title="Magyar", AXN
+http://81979568.allpremium.pro/R58R36R7/94354782/135349
 
 
 #EXTINF:-1 group-title="Magyar",Pannon TV
@@ -34,15 +36,18 @@ http://213.163.13.122:1559/udp/239.1.10.39:2000
 
 #EXTINF:-1 group-title="Magyar",CINEMAX HD
 http://213.163.13.122:1559/udp/239.1.10.40:2000
-
+#EXTINF:-1 group-title="Magyar",CINEMAX2 HD
+http://81979568.allpremium.pro/R58R36R7/94354782/135357
 
 #EXTINF:-1 group-title="Magyar",MAGYAR MOZI TV
 http://213.163.13.122:1559/udp/239.1.10.76:2000
 
 #EXTINF:-1 group-title="Magyar",M1 HD
 http://213.163.13.122:1559/udp/239.1.10.1:2000
-
-
+#EXTINF:-1 group-title="Magyar", DUNA TV HD
+http://81979568.allpremium.pro/R58R36R7/94354782/135281
+#EXTINF:-1 group-title="Magyar", DUNA  WORLD
+http://81979568.allpremium.pro/R58R36R7/94354782/135283
 
 #EXTINF:-1 group-title="Magyar",TV2 SUPER HD
 http://213.163.13.122:1559/udp/239.1.10.113:2000
@@ -220,6 +225,9 @@ http://213.163.13.122:1559/udp/239.1.10.104:2000
 
 #EXTINF:-1 group-title="Magyar",RTL OTTHON HD
 http://213.163.13.122:1559/udp/239.1.10.93:2000
+#EXTINF:-1 group-title="Magyar", RTL PLUS
+http://81979568.allpremium.pro/R58R36R7/94354782/135253
+
 
 #EXTINF:-1 group-title="Magyar",VIASAT NATURE HD
 http://213.163.13.122:1559/udp/239.1.10.65:2000
@@ -301,6 +309,9 @@ http://213.163.13.122:1559/udp/239.1.10.54:2000
 
 #EXTINF:-1 group-title="Magyar",RTL HD
 http://81979568.allpremium.pro/R58R36R7/94354782/135251
+#EXTINF:-1 group-title="Magyar",RTL HD
+http://81979568.allpremium.pro/R58R36R7/94354782/135315
+
 #EXTINF:-1 group-title="Magyar",TV2 HD
 http://81979568.allpremium.pro/R58R36R7/94354782/135265
 
@@ -317,18 +328,46 @@ https://budapest-cache-1.antik.sk/live/test_galaxy_4_atk_1200/playlist.m3u8
 https://budapest-cache-1.antik.sk/live/test_euronews_hu_1200_atk/playlist.m3u8
 
 
+
 #EXTINF:-1 tvg-id="hirtv.hu" tvg-name="HU - HIR TV HD" tvg-logo="https://go4.pw/HUNGARIAN/_HIRTV.png" group-title="Magyar",HU - HIR TV HD
 http://iffyqvne.icelil.com:80/2WUZTVD/LBJJG2N2394WWYG/906777
+#EXTINF:-1 group-title="Magyar",DISCOVERY SCIENCE HD
+http://81979568.allpremium.pro/R58R36R7/94354782/135463
+#EXTINF:-1 group-title="Magyar", SPORT 1 HD
+http://81979568.allpremium.pro/R58R36R7/94354782/135439
+#EXTINF:-1 group-title="Magyar", SPORT 2 HD
+http://81979568.allpremium.pro/R58R36R7/94354782/135441
+#EXTINF:-1 group-title="Magyar", EUROSPORT 1 HD
+http://81979568.allpremium.pro/R58R36R7/94354782/135433
+#EXTINF:-1 group-title="Magyar", EUROSPORT 2 
+http://81979568.allpremium.pro/R58R36R7/94354782/135435
+#EXTINF:-1 group-title="Magyar", NICK JR
+http://81979568.allpremium.pro/R58R36R7/94354782/135419
+#EXTINF:-1 group-title="Magyar",NICKELODEON
+http://81979568.allpremium.pro/R58R36R7/94354782/135421
+#EXTINF:-1 group-title="Magyar", DISNEY JUNIOR
+http://81979568.allpremium.pro/R58R36R7/94354782/135411
+#EXTINF:-1 group-title="Magyar", DISNEY CHANNEL
+http://81979568.allpremium.pro/R58R36R7/94354782/135413
+#EXTINF:-1 group-title="Magyar", Fix TV HD
+http://81979568.allpremium.pro/R58R36R7/94354782/135395
+#EXTINF:-1 group-title="Magyar",  FILMBOX EXTRA HD
+http://81979568.allpremium.pro/R58R36R7/94354782/135389
+#EXTINF:-1 group-title="Magyar",  FILMBOX PREMIUM
+http://81979568.allpremium.pro/R58R36R7/94354782/135363
 
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="Magyar", FILM CAFE
+http://81979568.allpremium.pro/R58R36R7/94354782/135391
+#EXTINF:-1 group-title="Magyar", M2 HD
+http://81979568.allpremium.pro/R58R36R7/94354782/135373
+#EXTINF:-1 group-title="Magyar", FEM 3
+http://81979568.allpremium.pro/R58R36R7/94354782/135335
+#EXTINF:-1 group-title="Magyar",CBS REALITY
+http://81979568.allpremium.pro/R58R36R7/94354782/135329
+#EXTINF:-1 group-title="Magyar,TV PAPRIKA
+http://81979568.allpremium.pro/R58R36R7/94354782/135323
+#EXTINF:-1 group-title="Magyar, TLC
+http://81979568.allpremium.pro/R58R36R7/94354782/135261
 
 #EXTINF:-1 tvg-id="" tvg-name="Kecskemeti TV (416p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Magyar",Kecskemeti TV (416p)
 http://rtmp1.40e.hu:8000/live/ktv.m3u8
