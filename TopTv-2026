@@ -427,17 +427,18 @@ https://eurobioinvest.hu:444/live/ktv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Alföld TV (1080p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Magyar",Alföld TV (1080p)
 https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="Magyar" ,Utánam srácok 1 rész
+#EXTINF:-1 group-title="Magyar Sorozatok" ,Utánam srácok 1 rész
 https://c401-node61-cdn.connectmedia.hu/4511/a65f4138eac63542bacbaa234f6f7a0a/6ae02e2c/2026/07/21/1975-100009-M0001-06/chunklist_w1387424086_b3700000.m3u8
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="Magyar Sorozatok" ,Utánam srácok  2 rész
+https://c202-node61-cdn.connectmedia.hu/4511/961d2df3e5d0f7378fe4c63dbaa4f678/6ae03037/2026/07/21/1975-100009-M0002-06/chunklist_w1449520682_b3700000.m3u8
+#EXTINF:-1 group-title="Magyar Sorozatok" ,Utánam srácok  3 rész
+https://c402-node62-cdn.connectmedia.hu/4511/5318975e125adf86216003c092505634/6ae031ae/2026/07/21/1975-100009-M0003-06/chunklist_w2135048844_b3700000.m3u8
+#EXTINF:-1 group-title="Magyar Sorozatok" ,Utánam srácok 4 rész
+https://c201-node61-cdn.connectmedia.hu/4511/4e4896c6d821bca054df81328efc7ec3/6ae03227/2026/07/21/1975-100009-M0004-06/chunklist_w92455679_b3700000.m3u8
+#EXTINF:-1 group-title="Magyar Sorozatok" ,Utánam srácok 5 rész
+https://c801-node63-cdn.connectmedia.hu/4511/15mJbZXyQ6PFBt2JGpD7w3FFCyRhVmfQBi/6ae032ae/2026/07/21/1975-100009-M0005-06/chunklist_w2087076347_b3700000.m3u8
+#EXTINF:-1 group-title="Magyar Sorozatok" ,Utánam srácok 6 rész
+https://c201-node61-cdn.connectmedia.hu/4511/fd7d2ad4af0d1d44fc189a03f25ec5a7/6ae0330d/2026/07/21/1975-100009-M0006-07/chunklist_w468066747_b3700000.m3u8
 
 ```
 #EXTM3U
